@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <title>Bootstrap Example</title>
+  <title>Nadella Club</title>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
@@ -107,7 +107,7 @@
 
 
 <footer class="container-fluid text-center">
-  <p>Developed by : Mohd. Omar Aslam</p>
+  <p>Developed by : <strong><i>Mohd. Omar Aslam</i></strong></p>
 </footer>
 
 </body>

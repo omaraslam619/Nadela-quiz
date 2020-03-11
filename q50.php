@@ -65,11 +65,11 @@
 	 }
 	function pre()
 	{ 
-	   window.location.href='index.php';
+	   window.location.href='q49.php';
 	}
 	function next()
 	{
-	   window.location.href='q2.php';
+	   window.location.href='q51.php';
 	}
   </script>
 </head>
@@ -98,15 +98,15 @@
 
  <center> <h1>Nadela Club Activity: Quiz </h1><br>
  
- <h2>Q1.)1 byte is equal to ..... <br><br>
+ <h2>Q1.)What is your name?<br><br>
  
-    a)4 bits &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
-    b)10 bits  <br><br>
-    c)8 bits  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
-    d)12 bits<br>
-	
+    a)Ron &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+    b)Matt  <br><br>
+    c)John &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+    d)Max<br>
+	<br>
  </h2>
-<h4> Enter Answer Here :&nbsp<input type="text" id="answer" name="ans" placeholder="eg: a" maxlength="1" required /> </h4>
+<h4> Enter Answer Here :&nbsp<input type="text" id="answer" name="ans" placeholder="Enter your choice" maxlength="1" required /> </h4>
 
  <br> <button  type="button" class="btn btn-success" onclick="check()" >Check Answer</button><br>
  <p  id="show" style="background-color:white; border: solid 0px #6E6E6E; width:220px; height: 40px; font-size:31px; " ></p>
@@ -125,7 +125,7 @@
  
 
 <footer class="container-fluid text-center">
-  <p>Developed by : <strong><i>Mohd. Omar Aslam</i></strong></p>
+  <p>Developed by : Mohd. Omar Aslam</p>
 </footer>
 
 </body>
